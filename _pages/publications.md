@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+- [**Online Makespan Minimization: Beat LPT by Dynamic Locking**](https://arxiv.org/abs/2311.11195)
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+  Joint work with Zhaozi Wang, and Yuhao Zhang. 
