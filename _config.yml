@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profilephoto.jpg"
   name             : "Zhiwei Ying"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate"
   location         : "Shanghai, China"
-  employer         : "Shanghai Jiao Tong University"
+  employer         : "SJTU"
   uri              : # URL
   email            : "mailto:yingzhiwei@sjtu.edu.cn" 
 
