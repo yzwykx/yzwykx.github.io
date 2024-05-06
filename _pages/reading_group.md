@@ -5,4 +5,4 @@ permalink: /reading_group/
 author_profile: true
 ---
 
-- [**Compressed Sampling and Sparse Recovery**](/files/CV_Zhiwei_Ying.pdf)
+- [**Compressed Sampling and Sparse Recovery**](/files/Compressed_Sampling_and_Sparse_Recovery.pdf)
