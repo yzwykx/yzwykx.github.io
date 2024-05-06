@@ -5,4 +5,4 @@ permalink: /reading_group/
 author_profile: true
 ---
 
-- [**Compressed Sampling and Sparse Recovery**](https://github.com/yzwykx/yzwykx.github.io/blob/master/files/Compressed_Sampling_and_Sparse_Recovery.pdf)
+- [**Compressed Sampling and Sparse Recovery**](/files/CV_Zhiwei_Ying.pdf)
